@@ -1,0 +1,31 @@
+id,title,description,difficulty,topic
+1,Two Sum,"Given an integer array and a target, return the indices of two numbers that add up to the target.",Easy,Arrays
+2,Maximum Subarray,"Given an integer array, find the contiguous subarray with the largest sum and return that sum.",Medium,Arrays
+3,Valid Anagram,"Given two strings, check whether one is an anagram of the other.",Easy,Strings
+4,Longest Substring Without Repeating Characters,"Given a string, find the length of the longest substring that has no repeated characters.",Medium,Strings
+5,Maximum Depth of Binary Tree,"Given the root of a binary tree, return its maximum depth, the number of nodes on the longest path from root to a leaf.",Easy,Trees
+6,Lowest Common Ancestor of a Binary Tree,"Given a binary tree and two nodes, find their lowest common ancestor.",Medium,Trees
+7,Number of Islands,"Given a 2D grid of land and water, count the number of islands formed by connected land cells.",Medium,Graphs
+8,Course Schedule,"Given the number of courses and prerequisite pairs, determine whether all courses can be finished.",Medium,Graphs
+9,Climbing Stairs,"You can climb 1 or 2 steps at a time. Count the distinct ways to reach the top of n stairs.",Easy,Dynamic Programming
+10,Coin Change,"Given coin values and an amount, find the minimum number of coins needed to make that amount.",Medium,Dynamic Programming
+11,Best Time to Buy and Sell Stock,"Given an array where each element is a stock price on a day, find the maximum profit from buying on one day and selling on a later day.",Easy,Arrays
+12,Product of Array Except Self,"Given an integer array, return a new array where each element is the product of all other elements, without using division.",Medium,Arrays
+13,Rotate Array,"Given an array and a number k, rotate the array to the right by k positions.",Medium,Arrays
+14,Merge Intervals,"Given a list of intervals, merge all the overlapping ones and return the non-overlapping result.",Medium,Arrays
+15,Reverse String,"Given an array of characters, reverse it in place without using extra memory.",Easy,Strings
+16,Valid Palindrome,"Given a string, check whether it reads the same forwards and backwards after ignoring spaces, punctuation and letter case.",Easy,Strings
+17,Longest Palindromic Substring,"Given a string, find the longest substring that is a palindrome.",Medium,Strings
+18,Group Anagrams,"Given a list of words, group together the words that are anagrams of each other.",Medium,Strings
+19,Invert Binary Tree,"Given the root of a binary tree, swap the left and right children of every node and return the root.",Easy,Trees
+20,Binary Tree Level Order Traversal,"Given a binary tree, return its node values level by level from left to right.",Medium,Trees
+21,Validate Binary Search Tree,"Given a binary tree, check whether it follows the rules of a binary search tree.",Medium,Trees
+22,Diameter of Binary Tree,"Given a binary tree, find the length of the longest path between any two nodes in the tree.",Easy,Trees
+23,Clone Graph,"Given a node of a connected undirected graph, create a deep copy of the whole graph.",Medium,Graphs
+24,Rotting Oranges,"Given a grid of fresh and rotten oranges, where rot spreads to neighbours each minute, find the time until all oranges are rotten.",Medium,Graphs
+25,Shortest Path in Binary Matrix,"Given a grid of 0s and 1s, find the shortest path from the top-left to the bottom-right moving only through cells with 0, in any of 8 directions.",Medium,Graphs
+26,Flood Fill,"Given an image grid, a starting cell and a new colour, fill the starting cell and every connected cell of the same colour.",Easy,Graphs
+27,House Robber,"Given the money in each house on a street, find the maximum you can steal without robbing two neighbouring houses.",Medium,Dynamic Programming
+28,Longest Increasing Subsequence,"Given an array, find the length of the longest subsequence whose values are strictly increasing.",Medium,Dynamic Programming
+29,Unique Paths,"A robot starts at the top-left of a grid and can only move right or down. Count the ways to reach the bottom-right corner.",Medium,Dynamic Programming
+30,Longest Common Subsequence,"Given two strings, find the length of the longest sequence of characters that appears in both in the same order.",Medium,Dynamic Programming
