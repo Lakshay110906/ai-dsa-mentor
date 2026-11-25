@@ -29,3 +29,8 @@ id,title,description,difficulty,topic
 28,Longest Increasing Subsequence,"Given an array, find the length of the longest subsequence whose values are strictly increasing.",Medium,Dynamic Programming
 29,Unique Paths,"A robot starts at the top-left of a grid and can only move right or down. Count the ways to reach the bottom-right corner.",Medium,Dynamic Programming
 30,Longest Common Subsequence,"Given two strings, find the length of the longest sequence of characters that appears in both in the same order.",Medium,Dynamic Programming
+31,Trapping Rain Water,"Given an array of bar heights, where each bar has width 1, calculate how much rain water gets trapped between the bars after it rains.",Hard,Arrays
+32,Minimum Window Substring,"Given two strings s and t, find the smallest substring of s that contains every character of t, including duplicates.",Hard,Strings
+33,Binary Tree Maximum Path Sum,"Given a binary tree, find the path between any two nodes that has the largest sum of node values. The path does not need to pass through the root.",Hard,Trees
+34,Word Ladder,"Given a start word, an end word and a word list, find the length of the shortest sequence that changes one letter at a time, where every step is a word from the list.",Hard,Graphs
+35,Edit Distance,"Given two strings, find the minimum number of insert, delete or replace operations needed to turn the first string into the second.",Hard,Dynamic Programming
